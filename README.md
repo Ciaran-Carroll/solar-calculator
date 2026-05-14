@@ -2,7 +2,7 @@
 
 A first-pass desktop assessment tool for Irish domestic solar PV projects. Estimates how many panels fit on a given roof, system size in kWp, expected annual yield, and the financial picture including the SEAI grant, MSS export tariff, and battery economics.
 
-[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?logo=streamlit&logoColor=white)](https://your-deployment-url-here.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?logo=streamlit&logoColor=white)]([https://your-deployment-url-here.streamlit.app](https://solar-calculator-7gcg5a8x7ny6gsa8whv2zj.streamlit.app/))
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Tests](https://img.shields.io/badge/tests-52%20passing-brightgreen)](#tests)
